@@ -3,7 +3,7 @@ Computer Engineering Student at Hacettepe University
 Passionate about Software Architecture & Problem Solving 
 Curious for Cybersecurity
 
-##About Me
+## About Me
 
 - Currently learning: **Algorithms, Computer Systems**
 - Ask me about: **Java, OOP, Data Structures, Algorithms, C++, Python**
