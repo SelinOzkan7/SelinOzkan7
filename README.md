@@ -1,7 +1,7 @@
-## Hi👋 I'm Selin!
--Computer Engineering Student at Hacettepe University 
--Passionate about Software Architecture & Problem Solving 
--Curious for Cybersecurity
+# Hi👋 I'm Selin!
+- Computer Engineering Student at Hacettepe University 
+- Passionate about Software Architecture & Problem Solving 
+- Curious for Cybersecurity
 
 ## About Me
 
