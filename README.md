@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi👋 I'm Selin!
+Computer Engineering Student at Hacettepe University 
+Passionate about Software Architecture & Problem Solving 
+Curious for Cybersecurity
 
-<!--
-**SelinOzkan7/SelinOzkan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
 
-Here are some ideas to get you started:
+- Currently learning: **Algorithms, Computer Systems**
+- Ask me about: **Java, OOP, Data Structures, Algorithms, C++, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Java
+- C++
+- Python
+
+### Core Computer Science
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Collections Framework
+- File I/O
+
+## 🎯 Career Goal
+
+I aim to become a Backend Developer,  building scalable and well-architected systems.
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/selinozkann
+- Email: selinozkansivas@gmail.com
