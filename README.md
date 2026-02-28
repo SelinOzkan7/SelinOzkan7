@@ -1,4 +1,4 @@
-# Hi👋 I'm Selin!
+## Hi👋 I'm Selin!
 -Computer Engineering Student at Hacettepe University 
 -Passionate about Software Architecture & Problem Solving 
 -Curious for Cybersecurity
